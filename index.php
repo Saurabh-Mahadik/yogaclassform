@@ -2,7 +2,7 @@
 include "connection.php";
 ?>
 <!DOCTYPE html>
-<!---Coding By CodingLab | www.codinglabweb.com--->
+
 <html lang="en">
 
 <head>
@@ -10,7 +10,7 @@ include "connection.php";
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <title>Registration Form </title>
-  <!---Custom CSS File--->
+  
   <link rel="stylesheet" href="form.css" />
 </head>
 
@@ -62,9 +62,7 @@ include "connection.php";
         </div>
       </div>
       <div class="input-box address">
-        <!-- <label>Address</label> -->
-        <!-- <input type="text" placeholder="Enter street address" required />
-          <input type="text" placeholder="Enter street address line 2" required /> -->
+        
         <div class="column">
           <div class="select-box">
             <select name="batch_id">
