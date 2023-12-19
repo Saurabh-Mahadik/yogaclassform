@@ -1,8 +1,5 @@
 <!doctype html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
-<!--[if gt IE 8]><!-->
+
 <html class="no-js" lang="en">
 <!--<![endif]-->
 
@@ -42,7 +39,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="demo.php">
-                    YOGA se HOGA
+                    YOGA IS BEST
                 </a>
                 <a class="navbar-brand hidden" href="demo.php"><img src="images/logo2.png" alt="Logo"></a>
             </div>
@@ -53,7 +50,7 @@
                         <a href="viewUserDetails.php"> <i class="menu-icon fa fa-book"></i>View Details </a>
                     </li>
                     <li>
-                        <a href="editBatch.php"> <i class="menu-icon fa fa-pencil"></i>Edit Batch Timing</a>
+                        <a href="editBatch.php"> <i class="menu-icon fa fa-pencil"></i>Change Batch Timing</a>
                     </li>
                     <li>
                         <a href="logout.php"> <i class="menu-icon fa fa-close"></i>Logout </a>
