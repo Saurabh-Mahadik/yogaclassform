@@ -71,8 +71,8 @@ while ($row = mysqli_fetch_array($res)) {
             </div>
             <!--/.col-->
 
-        </div><!-- .animated -->
-    </div><!-- .content -->
+        </div>
+    </div>
 
     <?php
     $result = mysqli_query($link, "select * from user_table where email='$_SESSION[admin]' ");
